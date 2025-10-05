@@ -1,0 +1,8 @@
+README.md
+setup.py
+genialntools/__init__.py
+genialntools/genial.py
+genialntools.egg-info/PKG-INFO
+genialntools.egg-info/SOURCES.txt
+genialntools.egg-info/dependency_links.txt
+genialntools.egg-info/top_level.txt

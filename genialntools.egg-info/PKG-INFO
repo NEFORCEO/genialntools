@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: genialntools
+Version: 3.0.0
+Summary: Simple tools for slowing down or speeding up function execution
+Author: NEFOR
+Requires-Python: >=3.7
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
