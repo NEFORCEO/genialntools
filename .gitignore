@@ -1,0 +1,6 @@
+build/
+dist/
+genialntools.egg-info/
+.vscode/
+.idea/
+*.suo
